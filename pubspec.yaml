@@ -1,0 +1,13 @@
+name: scanner_pro
+description: 3D Scanner App
+
+environment:
+  sdk: ">=2.17.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  webview_flutter: ^4.0.0
+
+flutter:
+  uses-material-design: true
